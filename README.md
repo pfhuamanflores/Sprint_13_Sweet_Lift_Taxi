@@ -1,1 +1,2 @@
 # Sprint_13_Sweet_Lift_Taxi
+In this project, I developed machine learning models to analyze and forecast time series data for Sweet Lift, a taxi company. The goal was to predict ride demand and optimize fleet management based on historical data. These models enabled Sweet Lift to make data-driven decisions, improving operational efficiency and customer satisfaction by forecasting peak times and ensuring adequate driver availability.
